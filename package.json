@@ -1,0 +1,24 @@
+{
+  "name": "korean-filename-restorer",
+  "version": "1.0.0",
+  "description": "Chrome extension to restore broken Korean filenames from decomposed to composed form",
+  "main": "popup.js",
+  "scripts": {
+    "test": "echo \"No tests specified\"",
+    "build": "echo \"Build complete\""
+  },
+  "keywords": [
+    "chrome-extension",
+    "korean",
+    "filename",
+    "nfc",
+    "nfd",
+    "unicode",
+    "normalization",
+    "restore",
+    "fix",
+    "broken"
+  ],
+  "author": "",
+  "license": "MIT"
+}

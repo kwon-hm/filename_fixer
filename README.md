@@ -1,6 +1,7 @@
 # ✨ 깨진 한글 파일명 복원기
 
 자음/모음이 분리되어 깨진 한글 파일명을 자동으로 복원하는 크롬 확장프로그램입니다.
+https://chromewebstore.google.com/detail/delpiefoppkeplmaaaobgcgidbbnlnjb?utm_source=item-share-cb
 
 ## 🎯 주요 기능
 
